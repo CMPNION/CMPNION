@@ -29,5 +29,4 @@ I have 1 year experience of backend development that includes: university projec
 ### Badges
 
 <b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cmpnion"><img src="https://github-readme-stats.vercel.app/api?username=cmpnion&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cmpnion's GitHub stats" /></a>
+![cmpnion's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CMPNION&show_icons=true&theme=radical)
