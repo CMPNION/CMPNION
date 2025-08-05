@@ -4,10 +4,6 @@ Hi 👋 My name is Dmitriy, aka cmpnion
 Backend developer and student
 -----------------------------
 
-I've started from C++, Rust and C, but realize that low-level languages needs to be learn for so many years. Then i found Typescript with their strong and extremley interesting frameworks like NestJS etc. Nowadays i am already made some backend API's for self-imrovement and few microservices for University students goverment.
-
-I have 1 year experience of backend development that includes: university projects, interview live-coding, couple of production projects, hackatons etc.
-
 * 🌍  I'm based in Astana, Kazakstan
 * ✉️  You can contact me at [norkindima57@gmail.com](mailto:norkindima57@gmail.com)
 * 🧠  I'm learning NestJS, React, TailwindCSS
