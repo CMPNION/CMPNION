@@ -24,4 +24,5 @@ Backend developer and student
 
 ### Pet projects:
 -Transaction-tracker API
+<br />
 -Event-management API
